@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670612637 source:c:\users\defne\c derslerİ\yılan oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
